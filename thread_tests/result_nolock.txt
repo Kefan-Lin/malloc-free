@@ -1,0 +1,297 @@
+Tesing 1 th time********************
+Testing 1 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.128096 seconds
+Data Segment Size = 43339968 bytes
+Tesing 2 th time********************
+Testing 2 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.095644 seconds
+Data Segment Size = 42806304 bytes
+Tesing 3 th time********************
+Testing 3 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.121827 seconds
+Data Segment Size = 42465376 bytes
+Tesing 4 th time********************
+Testing 4 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.101230 seconds
+Data Segment Size = 42493264 bytes
+Tesing 5 th time********************
+Testing 5 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.119329 seconds
+Data Segment Size = 43057680 bytes
+Tesing 6 th time********************
+Testing 6 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.136698 seconds
+Data Segment Size = 43382960 bytes
+Tesing 7 th time********************
+Testing 7 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.110850 seconds
+Data Segment Size = 42231056 bytes
+Tesing 8 th time********************
+Testing 8 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.132304 seconds
+Data Segment Size = 42807952 bytes
+Tesing 9 th time********************
+Testing 9 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.097154 seconds
+Data Segment Size = 41824576 bytes
+Tesing 10 th time********************
+Testing 10 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.097299 seconds
+Data Segment Size = 41765248 bytes
+Tesing 11 th time********************
+Testing 11 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.119705 seconds
+Data Segment Size = 43279264 bytes
+Tesing 12 th time********************
+Testing 12 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.097280 seconds
+Data Segment Size = 43462544 bytes
+Tesing 13 th time********************
+Testing 13 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.105585 seconds
+Data Segment Size = 42133264 bytes
+Tesing 14 th time********************
+Testing 14 thread_test_measurement
+Tesing 15 th time********************
+Testing 15 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.125566 seconds
+Data Segment Size = 44034192 bytes
+Tesing 16 th time********************
+Testing 16 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.118175 seconds
+Data Segment Size = 42475616 bytes
+Tesing 17 th time********************
+Testing 17 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.106595 seconds
+Data Segment Size = 42082448 bytes
+Tesing 18 th time********************
+Testing 18 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.115454 seconds
+Data Segment Size = 42496496 bytes
+Tesing 19 th time********************
+Testing 19 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.123965 seconds
+Data Segment Size = 42563216 bytes
+Tesing 20 th time********************
+Testing 20 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.146375 seconds
+Data Segment Size = 42454784 bytes
+Tesing 21 th time********************
+Testing 21 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.101787 seconds
+Data Segment Size = 43922992 bytes
+Tesing 22 th time********************
+Testing 22 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.109387 seconds
+Data Segment Size = 43706144 bytes
+Tesing 23 th time********************
+Testing 23 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.110447 seconds
+Data Segment Size = 42636528 bytes
+Tesing 24 th time********************
+Testing 24 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.117052 seconds
+Data Segment Size = 43145040 bytes
+Tesing 25 th time********************
+Testing 25 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.106273 seconds
+Data Segment Size = 42686800 bytes
+Tesing 26 th time********************
+Testing 26 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.136956 seconds
+Data Segment Size = 43528080 bytes
+Tesing 27 th time********************
+Testing 27 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.122550 seconds
+Data Segment Size = 43220656 bytes
+Tesing 28 th time********************
+Testing 28 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.102040 seconds
+Data Segment Size = 41804576 bytes
+Tesing 29 th time********************
+Testing 29 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.111324 seconds
+Data Segment Size = 43328096 bytes
+Tesing 30 th time********************
+Testing 30 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.104345 seconds
+Data Segment Size = 42889168 bytes
+Tesing 31 th time********************
+Testing 31 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.099575 seconds
+Data Segment Size = 42794208 bytes
+Tesing 32 th time********************
+Testing 32 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.107877 seconds
+Data Segment Size = 42316128 bytes
+Tesing 33 th time********************
+Testing 33 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.097073 seconds
+Data Segment Size = 41930528 bytes
+Tesing 34 th time********************
+Testing 34 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.100861 seconds
+Data Segment Size = 42558576 bytes
+Tesing 35 th time********************
+Testing 35 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.117312 seconds
+Data Segment Size = 42901824 bytes
+Tesing 36 th time********************
+Testing 36 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.100290 seconds
+Data Segment Size = 43361280 bytes
+Tesing 37 th time********************
+Testing 37 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.119441 seconds
+Data Segment Size = 43749504 bytes
+Tesing 38 th time********************
+Testing 38 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.115009 seconds
+Data Segment Size = 43768784 bytes
+Tesing 39 th time********************
+Testing 39 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.116464 seconds
+Data Segment Size = 42554592 bytes
+Tesing 40 th time********************
+Testing 40 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.109132 seconds
+Data Segment Size = 42252512 bytes
+Tesing 41 th time********************
+Testing 41 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.100510 seconds
+Data Segment Size = 44231344 bytes
+Tesing 42 th time********************
+Testing 42 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.113829 seconds
+Data Segment Size = 43811552 bytes
+Tesing 43 th time********************
+Testing 43 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.103419 seconds
+Data Segment Size = 43795376 bytes
+Tesing 44 th time********************
+Testing 44 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.101792 seconds
+Data Segment Size = 41895584 bytes
+Tesing 45 th time********************
+Testing 45 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.104069 seconds
+Data Segment Size = 44348624 bytes
+Tesing 46 th time********************
+Testing 46 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.107262 seconds
+Data Segment Size = 43275184 bytes
+Tesing 47 th time********************
+Testing 47 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.140758 seconds
+Data Segment Size = 42876448 bytes
+Tesing 48 th time********************
+Testing 48 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.117222 seconds
+Data Segment Size = 43417008 bytes
+Tesing 49 th time********************
+Testing 49 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.095666 seconds
+Data Segment Size = 43505872 bytes
+Tesing 50 th time********************
+Testing 50 thread_test_measurement
+No overlapping allocated regions found!
+Test passed
+Execution Time = 0.114305 seconds
+Data Segment Size = 44316192 bytes
+Done!
